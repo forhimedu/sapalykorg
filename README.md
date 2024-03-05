@@ -1,1 +1,1 @@
-# sapalykorg
+# sapalyk
